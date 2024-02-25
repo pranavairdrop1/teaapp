@@ -1,0 +1,2 @@
+# teaapp
+testnet
